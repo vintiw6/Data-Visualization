@@ -1,7 +1,7 @@
 # 📊 Data Visualization
 
 ## 🌟 About
-Guided by: Ramakant Ganjeshwar Sir
+*Guided by: Ramakant Ganjeshwar Sir*
 This repository contains solutions to various data visualization problems solved in my Data Visualization Lab class. It showcases different techniques to analyze and present data effectively using Python. The repository includes practical examples of how to create insightful and meaningful visualizations for different types of datasets.
 
 ## 📝 List of Experiments
